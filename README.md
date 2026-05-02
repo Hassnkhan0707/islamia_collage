@@ -1,2 +1,2 @@
 # islamia_collage
-this is my first gethub repository
+this is my first github repository
