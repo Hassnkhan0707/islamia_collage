@@ -1,2 +1,0 @@
-# Islamia College Project
-   
